@@ -1,1 +1,0 @@
-# lab-no-2-full-stack-part-A
